@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501780776393">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501780982267">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4060232899" ref="index"/>
@@ -27,5 +27,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="317944764" seo="true" mt="1501780759208" redirect="true"/>
+  <file name="index.html" crc="286877314" seo="true" mt="1501780971259" redirect="true"/>
 </manifest>
