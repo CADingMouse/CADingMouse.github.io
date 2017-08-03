@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501401917212">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501780776393">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4114070013" ref="index"/>
+    <file name="index.css" crc="4060232899" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,12 +17,15 @@
     </file>
     <file name="u135-4.png" crc="3857107138" ref="index"/>
     <file name="u141-4.png" crc="3833544584" ref="index"/>
-    <file name="pouce54_2017-jul-29_03-05-10pm-000_customizedview17760952335-crop-u191.jpg" crc="3801299449" seo="true" ref="index">
+    <file name="pouce-con.jpg" crc="4164974536" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pouce5 v68.jpg" crc="4075716575" seo="true" ref="index">
+    <file name="pouce-setsumei.jpg" crc="3858200110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pouce-end-100.jpg" crc="4070964699" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4267456567" seo="true" mt="1501401897961" redirect="true"/>
+  <file name="index.html" crc="317944764" seo="true" mt="1501780759208" redirect="true"/>
 </manifest>
