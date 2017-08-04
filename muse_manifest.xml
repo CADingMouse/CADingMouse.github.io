@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501780982267">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CADingMouse.com" resolutions="1x" timestamp="1501849773176">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4060232899" ref="index"/>
+    <file name="index.css" crc="3942900337" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="4216313831" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
     <file name="jquery.watch.js" crc="460461809" ref="index"/>
     <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
@@ -15,17 +15,17 @@
     <file name="img_5307_rev3.jpg" crc="4086381010" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u135-4.png" crc="3857107138" ref="index"/>
-    <file name="u141-4.png" crc="3833544584" ref="index"/>
-    <file name="pouce-con.jpg" crc="4164974536" seo="true" ref="index">
+    <file name="u135-4.png" crc="330207186" ref="index"/>
+    <file name="u141-4.png" crc="4233981575" ref="index"/>
+    <file name="pouce-concept-100.jpg" crc="402871805" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pouce-setsumei.jpg" crc="3858200110" seo="true" ref="index">
+    <file name="pouce-setsumei-100.jpg" crc="65698175" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pouce-end-100.jpg" crc="4070964699" seo="true" ref="index">
+    <file name="pouce-end-100.jpg" crc="513983847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="286877314" seo="true" mt="1501780971259" redirect="true"/>
+  <file name="index.html" crc="3785712279" seo="true" mt="1501849734308" redirect="true"/>
 </manifest>
